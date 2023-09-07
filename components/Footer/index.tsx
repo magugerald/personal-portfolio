@@ -22,7 +22,7 @@ export default function Footer() {
               &copy; {new Date().getFullYear()}, Gerald Magu. All rights
               reserved.
             </p>
-            <p className="text-xs text-gray-400">
+            {/* <p className="text-xs text-gray-400">
               Developed by{" "}
               <Link
                 href="https://twitter.com/ken_cipher"
@@ -31,7 +31,7 @@ export default function Footer() {
               >
                 Ken Mwangi
               </Link>
-            </p>
+            </p> */}
           </div>
         </section>
       </Container>
