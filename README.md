@@ -23,7 +23,7 @@ A portfolio showcasing the Data Science and Machine Learning contributions of Ma
 
 ## Portfolio Demo
 
-https://gerald-magu-portfolio.vercel.app/
+https://www.magugerald.com/
 
 ## Lessons Learned
 
