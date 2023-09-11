@@ -41,6 +41,20 @@ export default function CaseStudy() {
             He has established data analytical skills, machine learning skills, artificial intelligence skills, communication skills, and collaboration skills. 
             He has a good reputation for resolving problems, improving customer satisfaction, and driving operational improvements. 
             Besides, he has a great professional background that reflects a keen understanding of data science.
+
+            Gerald's professional expertise spans various domains. He excels in reading and interpreting data and information, 
+            making him adept at solving a wide range of problems. He is a quick learner and easily adaptable, 
+            capable of establishing productive working relationships across different levels of an organization. 
+            His technical prowess extends to data analysis tools such as Python, R, PowerBI, Tableau, and Excel. 
+            Furthermore, he possesses analytical, mathematical, and academic writing skills, 
+            all supported by his zeal to keep learning as well as excellent learning abilities. 
+            He is always eager to take on new challenges and opportunities that can help him grow as a professional and as a person.
+            Notably, he is passionate about learning new skills and technologies, especially those related to Data Science, Machine Learning, and Artificial Intelligence. 
+            He is also interested in getting mentorship as well as mentoring others on the path of Data Science.
+
+            Outside of his professional endeavors, Gerald has diverse interests and hobbies such as adventuring, swimming, 
+            reading motivational books, listening to music, watching movies, and playing chess in his spare time. 
+            He is also active on social media platforms such as Twitter and LinkedIn as well as GitHub.
           </h4>
         </section>
         <section className="grid gap-6 grid-cols-1 lg:grid-cols-3 w-full mb-8">
