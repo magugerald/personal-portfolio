@@ -7,21 +7,21 @@ import { BsArrowUpRight } from "react-icons/bs";
 const projects = [
   {
     id: uuidv4(),
-    title: "Development of a predictive Data Analysis Web App for heart disease detection",
+    title: "Development of a Predictive Data Analysis Model heart disease detection",
     cta: "Explore the project",
     subject:
       "Machine learning techniques to create models for heart disease prediction and deployed using Flask backend technology",
   },
   {
     id: uuidv4(),
-    title: "Quantitative Methodological on citizenship and migration",
+    title: "Quantitative Data Analysis",
     cta: "Explore the project",
     subject:
       "Using powerful set of tools in measuring and guaging the aspects of migration and citizenship social phenomena based on increased data availability",
   },
   {
     id: uuidv4(),
-    title: "Domesticated Animal Image Classification with Python",
+    title: "Image Classification with Python",
     cta: "Explore the project",
     subject:
       "Creating and optimizing the convulational neutral network to identify domesticated vs non-domesticated animals using CIFAR-10 dataset",
@@ -37,8 +37,10 @@ export default function CaseStudy() {
             About Me
           </h2>
           <h4 className="text-xl my-12 text-gray-700">
-            Proven solutions for real-world problems to provide best value based
-            on given statistical data.
+            Gerald Magu is a Kenyan data analyst with over three years of experience in analyzing data, offering insights, and writing reports for various clients. 
+            He has established data analytical skills, machine learning skills, artificial intelligence skills, communication skills, and collaboration skills. 
+            He has a good reputation for resolving problems, improving customer satisfaction, and driving operational improvements. 
+            Besides, he has a great professional background that reflects a keen understanding of data science.
           </h4>
         </section>
         <section className="grid gap-6 grid-cols-1 lg:grid-cols-3 w-full mb-8">
