@@ -8,19 +8,31 @@ const experiences = [
     id: uuidv4(),
     title: "Experience",
     subject:
-      "Dedicated Data Analyst with experience in identifying problem areas and communicating the project needs",
+      "Gerald's employment history includes roles as an Online Freelancer Data Analyst, where he has been actively involved in analyzing data, 
+      extracting insights, identifying patterns, and presenting comprehensive reports since May 2019. 
+  Prior to this, he worked as a content and academic writer on Fiverr, 
+    specializing in content and technical writing within the field of information technology from February 2019 to date. 
+    Throughout his career, he has achieved notable success, particularly in expanding his skills in data analysis and research writing, 
+      and he has collaborated with diverse clients in various areas of Data Science, with a focus on clients from the USA.",
   },
   {
     id: uuidv4(),
-    title: "Adept at Receiving & Monitoring Data",
+    title: "Certifications",
     subject:
-      "Getting data from multiple streams that includes SQL, Acess and Excel data sources",
+      " In terms of education, Gerald has continually updated his knowledge and skills. He has taken data analysis courses on Coursera, 
+        followed data analysis tutorials on YouTube, and engaged in further learning through Udemy Free Courses. 
+        His commitment to professional development is evident through multiple certifications, 
+        including those in Data Analysis with Python and R from Coursera, 
+        a Data Science Foundation Certificate, and Digital Skills Participation Certificate from CloudFactory Kenya.",
   },
   {
     id: uuidv4(),
-    title: "Synthesizing Quantitative Information",
+    title: "Academic background",
     subject:
-      "Presenting ability to interact effectively with findings and generating insights as per standard",
+      "Besides, Gerald Magu has a bachelor’s degree in mathematics and computer science from Multimedia University of Kenya, 
+        where he graduated in 2018 with a second-class honors degree. The course helped him receive comprehensive training in various domains such as mathematics, 
+        statistical analysis, computer programming, artificial intelligence, system design and analysis, computer networking, system security, 
+        website development, software engineering, multimedia systems, and account and finance.",
   },
 ];
 
