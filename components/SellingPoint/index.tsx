@@ -8,13 +8,11 @@ const experiences = [
     id: uuidv4(),
     title: "Experience",
     subject:
-      <h4>
       "Gerald's employment history includes roles as an Online Freelancer Data Analyst, where he has been actively involved in analyzing data, 
         extracting insights, identifying patterns, and presenting comprehensive reports since May 2019. Prior to this, he worked as a content and academic writer on Fiverr, 
         specializing in content and technical writing within the field of information technology from February 2019 to date. 
         Throughout his career, he has achieved notable success, particularly in expanding his skills in data analysis and research writing, 
         and he has collaborated with diverse clients in various areas of Data Science, with a focus on clients from the USA.",
-        <h4/>
   },
   {
     id: uuidv4(),
