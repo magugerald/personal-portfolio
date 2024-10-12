@@ -25,7 +25,7 @@ export default function Hero() {
         <div className="grid items-center lg:gap-32 grid-cols-1 lg:grid-cols-2">
           <div className="w-full pt-20 mt-5 lg:mt-0 items-center lg:w-1/2 -order-1 lg:order-2">
             <Image
-              src="/images/gerald.jpg"
+              src="/images/gerald 3.jpg"
               width={300}
               height={300}
               alt="Magu Gerald"
