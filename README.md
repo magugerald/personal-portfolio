@@ -1,4 +1,6 @@
-## Gerald Magu Personal Portfolio
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+# Gerald Magu Personal Portfolio
 
 A portfolio showcasing the Data Science and Machine Learning contributions of Magu Gerald.
 
