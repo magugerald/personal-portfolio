@@ -22,9 +22,9 @@ export default function DefaultLayout({ children }: DefaultLayoutProps) {
   }, []);
 
   return (
-    <main className="grow">
+    <div className="grow">
       {children}
       <Banner />
-    </main>
+    </div>
   );
 }
