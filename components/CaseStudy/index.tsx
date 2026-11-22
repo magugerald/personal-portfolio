@@ -37,12 +37,12 @@ export default function CaseStudy() {
             About Me
           </h2>
           <h4 className="text-xl my-12 text-gray-700">
-            "Gerald Magu is a Kenyan data analyst with over three years of experience in analyzing data, offering insights, and writing reports for various clients. 
+            &quot;Gerald Magu is a Kenyan data analyst with over three years of experience in analyzing data, offering insights, and writing reports for various clients. 
             He has established data analytical skills, machine learning skills, artificial intelligence skills, communication skills, and collaboration skills. 
             He has a good reputation for resolving problems, improving customer satisfaction, and driving operational improvements. 
             Besides, he has a great professional background that reflects a keen understanding of data science.
 
-            Gerald's professional expertise spans various domains. He excels in reading and interpreting data and information, 
+            Gerald&apos;s professional expertise spans various domains. He excels in reading and interpreting data and information, 
             making him adept at solving a wide range of problems. He is a quick learner and easily adaptable, 
             capable of establishing productive working relationships across different levels of an organization. 
             His technical prowess extends to data analysis tools such as Python, R, PowerBI, Tableau, and Excel. 
@@ -54,7 +54,7 @@ export default function CaseStudy() {
 
             Outside of his professional endeavors, Gerald has diverse interests and hobbies such as adventuring, swimming, 
             reading motivational books, listening to music, watching movies, and playing chess in his spare time. 
-            He is also active on social media platforms such as Twitter and LinkedIn as well as GitHub."
+            He is also active on social media platforms such as Twitter and LinkedIn as well as GitHub.&quot;
           </h4>
         </section>
         <section className="grid gap-6 grid-cols-1 lg:grid-cols-3 w-full mb-8">
